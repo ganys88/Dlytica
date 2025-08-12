@@ -1,2 +1,0 @@
-# Dlytica
-Data_Engineering
